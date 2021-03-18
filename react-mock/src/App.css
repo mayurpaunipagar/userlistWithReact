@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  padding:10px;
+  margin:10px;
+  border:2px solid lightblue;
+  text-align: left;
+}
